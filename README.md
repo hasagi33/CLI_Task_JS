@@ -1,4 +1,4 @@
-### Setting up the Express.js Backend
+# Setting up the Express.js Backend
 This document provides step-by-step instructions on how to build and run the JavaScript backend in Express for the CLI Task Timer project. Follow the steps below to set up the project environment and get the backend server running.
 
 ---
