@@ -7,7 +7,7 @@ This document provides step-by-step instructions on how to build and run the Jav
 
 1. **Node.js** (Version 14 or higher recommended)
    - Download and install Node.js from nodejs.org.
-3. **NPM or yarn**
+2. **NPM or yarn**
    - NPM comes with Node.js installation. To check, run
  ```bash
  npm -v
@@ -16,13 +16,13 @@ This document provides step-by-step instructions on how to build and run the Jav
 ```bash
  npm install -g yarn
 ```
-5. **Git**
+3. **Git**
    - Ensure Git is installed to clone the repository.
    - Check by running:
  ```bash
   git --version
  ```
-7. **Postman or Browser**
+4. **Postman or Browser**
    - Test API endpoints
 
 ## File structure overview 
